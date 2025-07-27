@@ -55,6 +55,7 @@ I decided that the Raspberry Pi 5 would be my best option as,
 The Kinect v2 is **very power hungry**. Making this completely battery‑powered (with step‑up converters) is possible, but battery life would probably be terrible. Having a cable for power isn’t the end of the world, since no one’s realistically going to use this to scan a whole house (and it obviously won’t be commercial grade anyway).
 
 <img width="425" height="210" alt="image" src="https://github.com/user-attachments/assets/40d42d4a-1d1d-49ff-89c2-b233ed972a07" />
+
 (This is how the adapter looks) 
 
 
