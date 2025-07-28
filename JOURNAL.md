@@ -88,8 +88,8 @@ The list isn’t final (obviously) but it helps me get an idea if it’s even re
 | Custom PCB                 | Connects buttons, SSD, etc.  | JLCPCB | TBD |
 | 3D Printed Case            | Holds everything together    | Self-Sourced | $0 |
 | NVMe SSD                   | Storage for scan data        | Owned | $0 |
-||                              ||                                   Total CAD | $187 |
-||                              ||                                   Total USD | $138 |
+||                           |                                Total CAD | $187 |
+||                           |                                Total USD | $138 |
 
 ## CAD
 
