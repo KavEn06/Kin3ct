@@ -109,7 +109,7 @@ I’ve just went with this model and kept refining it, and a couple hours later 
 <br>
 <img width="625" height="427" alt="image" src="https://github.com/user-attachments/assets/520777e8-49cb-4234-aea6-5ef9a38ce009" />
 
-**Total Time Spent Today: ~5h**
+**Total Time Spent Today: ~6h**
 
 ---
 
@@ -134,7 +134,7 @@ Here’s the model of the mount I made for it :D
 
 <img width="752" height="500" alt="image" src="https://github.com/user-attachments/assets/da4793b8-6a27-4216-b7c0-82a62a7de9e1" />
 
-**Total Time Spent Today: ~2h**
+**Total Time Spent Today: ~3h**
 
 ---
 
