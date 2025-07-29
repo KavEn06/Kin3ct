@@ -112,3 +112,28 @@ I’ve just went with this model and kept refining it, and a couple hours later 
 **Total Time Spent Today: ~5h**
 
 ---
+
+# July 22nd – more cad
+
+Spent today doing more CAD stuff!  
+
+First pic is just me turning the model into a proper shell with a wall thickness of 2.6mm, and I added standoffs for the Raspberry Pi and the screen. Also made sure all the parts actually fit inside (which they very clearly do so far, yay).  
+
+<img width="725" height="444" alt="image" src="https://github.com/user-attachments/assets/78f6ece6-303c-432d-9150-8f05318952cd" />
+
+Side note: the random yellow block in the model is just the Kinect adapter — I couldn’t find a proper CAD model for it, so that’s what its gonna be lol.
+
+
+You might be wondering *“kavin where’s the Kinect gonna go?!?!?!”*  
+
+It’s actually gonna go right at the bottom of the scanner, which is why i didn't do any fillets or anything down there so then it mates up nicely with the kinect.  
+
+Here’s the model of the mount I made for it :D
+
+<img width="752" height="454" alt="image" src="https://github.com/user-attachments/assets/c8419c89-237f-431a-8aed-b3eebab081db" />
+
+<img width="752" height="500" alt="image" src="https://github.com/user-attachments/assets/da4793b8-6a27-4216-b7c0-82a62a7de9e1" />
+
+**Total Time Spent Today: ~2h**
+
+---
