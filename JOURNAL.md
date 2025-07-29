@@ -137,3 +137,28 @@ Here’s the model of the mount I made for it :D
 **Total Time Spent Today: ~2h**
 
 ---
+
+# July 23rd – even more cad
+
+Today wasn’t much, I just decided to finish up this CAD model.  
+
+I added ribs inside the shell where the grips are so it feels sturdier in the hand, and also added some buttons to the right side of the screen for easy control of shortcuts.  
+
+It’s nothing huge, but it does make it feel more like a proper handheld scanner and less like just an empty box lol.
+
+<img width="790" height="554" alt="image" src="https://github.com/user-attachments/assets/5b7b1a51-2aa4-4841-b44a-9af0e3963238" />
+
+<img width="790" height="554" alt="image" src="https://github.com/user-attachments/assets/1cdf2ce6-2901-4bd8-b2db-a6cb20a15f8e" />
+
+<img width="790" height="554" alt="image" src="https://github.com/user-attachments/assets/ee7bf564-aa47-4399-b7ba-9ff8f29b211a" />
+
+(IT'S ACTUALLY LOOKING LIKE A PROPER SCANNER WOOOOOOO) 
+
+I also imported the sketch that I used to make the holes in the shell into KiCAD, so that I know where to place the push buttons on the PCB. (I just exported the sketch as a DXF and imported it into KiCAD's PCB editor)
+
+<img width="163" height="389" alt="image" src="https://github.com/user-attachments/assets/bb5c470d-37e4-4e22-aff6-7c4523d8b694" />
+
+**Total Time Spent Today: ~2h**
+
+---
+
