@@ -1,0 +1,10 @@
+Item,Purpose,Source,Price
+Raspberry Pi 5,Main compute unit,PiShop https://www.pishop.ca/product/raspberry-pi-5-4gb/?searchid=0&search_query=pi+5+,$85
+7 inch LCD Display + Touch,Display & user interface,AliExpress https://www.aliexpress.com/item/1005006420023450.html?invitationCode=MWVGaWdsZDc0cUZBdVBDM3l3bnY2ZGI4ckF6NFl1RjcwaTVFclZqZytLU2VQemFTZUJrNWVWT0s1MU1hdTAyWg&srcSns=sns_Copy&spreadType=socialShare&social_params=21892192294&bizType=ProductDetail&spreadCode=MWVGaWdsZDc0cUZBdVBDM3l3bnY2ZGI4ckF6NFl1RjcwaTVFclZqZytLU2VQemFTZUJrNWVWT0s1MU1hdTAyWg&aff_fcid=bc58928340ae4fef85f7e64e18bd7d7a-1753674064912-08252-_mPIB3Jt&tt=MG&aff_fsk=_mPIB3Jt&aff_platform=default&sk=_mPIB3Jt&aff_trace_key=bc58928340ae4fef85f7e64e18bd7d7a-1753674064912-08252-_mPIB3Jt&shareId=21892192294&businessType=ProductDetail&platform=AE&terminal_id=f0c0659a4ca447babbee09709f77824e&afSmartRedirect=y,$40
+Kinect v2 + Adapter,Depth camera for scanning,Owned,$0
+Push Button,Physical controls (start/stop etc.),AliExpress https://www.aliexpress.com/item/32815969627.html?invitationCode=MWVGaWdsZDc0cUZ3UlZKTHg5WXhOZGI4ckF6NFl1RjcwaTVFclZqZytLU2VQemFTZUJrNWVWT0s1MU1hdTAyWg&srcSns=sns_Copy&spreadType=socialShare&social_params=21887243335&bizType=ProductDetail&spreadCode=MWVGaWdsZDc0cUZ3UlZKTHg5WXhOZGI4ckF6NFl1RjcwaTVFclZqZytLU2VQemFTZUJrNWVWT0s1MU1hdTAyWg&aff_fcid=4c7a59c12cce419489546f7f6a67c5eb-1753674154916-06773-_mMydiq7&tt=MG&aff_fsk=_mMydiq7&aff_platform=default&sk=_mMydiq7&aff_trace_key=4c7a59c12cce419489546f7f6a67c5eb-1753674154916-06773-_mMydiq7&shareId=21887243335&businessType=ProductDetail&platform=AE&terminal_id=f0c0659a4ca447babbee09709f77824e&afSmartRedirect=y,$2
+Custom PCB,"Connects buttons, SSD, etc.",JLCPCB,$5
+3D Printed Case,Holds everything together,Self-Sourced,$0
+NVMe SSD,Storage for scan data,Owned,$0
+,,Total CAD,$132
+,,Total USD,$96
