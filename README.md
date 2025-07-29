@@ -23,6 +23,8 @@ I’ve always thought 3D scanners were super cool, but most of the good ones are
 
 <img width="1372" height="709" alt="image" src="https://github.com/user-attachments/assets/fa612133-d185-4e7a-986e-ddae5e8d8995" />
 
+If anyone wants to take a peek at the CAD model, here’s the [Onshape document link](https://cad.onshape.com/documents/48930f9beb6214e895f71f2e/w/9f4ed8c437f438cf09a60f4e/e/15fc98493092e56e2661dd14?renderMode=0&uiState=68891b22b66bb758b3d517d6).
+
 ## Schematic and PCB 
 
 <p align="center">
