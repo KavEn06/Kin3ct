@@ -7,6 +7,8 @@ created_at: "2025-07-20"
 
 # Kin3ct Creation Journal 
 
+# Total time spent: 17h
+
 ---
 # July 20th – Can I even make this? Is this even possible?
 
