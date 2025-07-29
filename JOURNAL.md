@@ -162,3 +162,24 @@ I also imported the sketch that I used to make the holes in the shell into KiCAD
 
 ---
 
+# July 28th – pcb and finishing steps
+
+Made a simple 4‑button PCB today that connects straight to the Pi.  
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/5d03aaed-351b-4a4d-9901-3aec7211d542" />
+<img width="163" height="370" alt="image" src="https://github.com/user-attachments/assets/7813354a-72ba-4c0f-9175-35f27030a302" />
+
+I also imported it into Onshape so I could figure out the final position for the Pi inside the case. As you can see in the screenshot, everything lines up perfectly, but the USB headders on the Pi doesn't allow the Pi to get close enough to the PCB. 
+
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/7b83dcea-47ef-42bd-a4c1-ca9cb216c5f3" />
+<img width="227" height="450" alt="image" src="https://github.com/user-attachments/assets/91b300dd-dd0d-4366-b883-92693230380d" />
+
+I just put a small cutout in the corner of the pcb, which allowed me to move the Pi closer to the PCB by 6.7mm. (Which SHOULDDDD be close enough) 
+
+<img width="600" height="375" alt="image" src="https://github.com/user-attachments/assets/8a476a9b-665b-4f05-a16b-7ccb32d4b95b" />
+<img width="225" height="468" alt="image" src="https://github.com/user-attachments/assets/b47b4b65-dc9c-4f3c-a9a2-5fea2843c5ff" />
+
+**Total Time Spent Today: ~1h**
+
+---
+
