@@ -3,14 +3,14 @@
 <img width="905" height="571" alt="image" src="https://github.com/user-attachments/assets/ed81127b-27cb-4aae-b51f-a58f44d43555" />
 
 ## What is it?
-Kin3ct is a handheld 3D scanner built around a Kinect v2 sensor and a Raspberry Pi 5. It’s designed to let you scan objects and spaces while seeing the point cloud build live on the screen, instead of waiting to process photos later with photogrammetry. The scanner will have a built‑in 7‑inch touchscreen so you can watch the scan as you move, along with a few shortcut buttons on the side to start/stop scanning and switch modes.  
+Kin3ct is a handheld 3D scanner built around a Kinect v2 sensor and a Raspberry Pi 4. It’s designed to let you scan objects and spaces while seeing the point cloud build live on the screen, instead of waiting to process photos later with photogrammetry. The scanner will have a built‑in 7‑inch touchscreen so you can watch the scan as you move, along with a few shortcut buttons on the side to start/stop scanning and switch modes.  
 Right now, the plan is to capture the raw data on the Pi and clean it up later on a PC for use in CAD, Blender, or other 3D software.
 
 ## Backstory / Why did I build it?
 I’ve always thought 3D scanners were super cool, but most of the good ones are either huge, expensive, or both. At first I looked into doing photogrammetry, but it felt too slow — I really wanted something that could show what I was scanning *live*, so you can see if you missed a spot or need to rescan right away. That’s when I thought about using a Kinect v2 with a Raspberry Pi to make a handheld scanner that’s (sort of) portable and way cheaper than commercial scanners. It probably won’t be as accurate or polished, but the idea of being able to walk around an object and watch the point cloud build up on a little screen sounded too fun not to try.
 
 ## Hardware
-- **Raspberry Pi 5**             – handles running RTAB‑Map and collecting the data
+- **Raspberry Pi 4**             – handles running RTAB‑Map and collecting the data
 - **Kinect v2 + USB adapter**    – the depth sensor that actually does the scanning
 - **7-inch LCD touchscreen**     – to see the point cloud build live while scanning
 - **NVMe SSD**                   – extra storage for saving larger scans without swapping SD cards
@@ -33,8 +33,8 @@ If anyone wants to take a peek at the CAD model, here’s the [Onshape document 
 </p>
 
 Interms of the wiring for the Kinect, it goes such as: 
-Kinect -> Adapter -> Raspberry Pi 5 
-Power -> Adapter -> Raspberry Pi 5 and Kinect 
+Kinect -> Adapter -> Raspberry  4 
+Power -> Adapter -> Raspberry Pi 4 and Kinect 
 
 ## Firmware 
 For controlling the scanner, I made a small 4‑button PCB that connects directly to the GPIO pins on the Raspberry Pi.  
@@ -45,7 +45,7 @@ There will be a Python script running on the Pi can just watch for GPIO state ch
 - Maybe something else later on
 
 
-For the actual scanning, I’m planning to run RTAB‑Map on the Raspberry Pi 5. RTAB‑Map is an open‑source SLAM (Simultaneous Localization and Mapping) library that can build a 3D point cloud *live while scanning*, which is exactly what I wanted from the start.
+For the actual scanning, I’m planning to run RTAB‑Map on the Raspberry Pi 4. RTAB‑Map is an open‑source SLAM (Simultaneous Localization and Mapping) library that can build a 3D point cloud *live while scanning*, which is exactly what I wanted from the start.
 
 To get the Kinect v2 data into RTAB‑Map, I’ll be using libfreenect2 — an open‑source driver that lets Linux talk to the Kinect v2 over USB 3.  
 There isn’t an official ARM build, but it *does* work on the Pi if you build it from source (thanks to the Pi 5’s faster CPU and USB 3.0 ports).
